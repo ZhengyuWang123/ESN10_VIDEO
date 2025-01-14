@@ -1,5 +1,2 @@
-<video src="https://zhengyuwang123.github.io/ESN10_VIDEO/"
-       controls width="640">
-    Your browser does not support HTML5 video.
-</video>
+[点击这里访问我的 GitHub Pages 视频页面](https://zhengyuwang123.github.io/ESN10_VIDEO/)
 
